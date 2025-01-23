@@ -66,7 +66,7 @@ Ensure the following are installed on your machine:
    node app.js
 4. Access the backend services in your browser:
    ```bash
-   http://localhost:8080
+   http://localhost:12345
 
    ---
 

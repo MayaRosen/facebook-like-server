@@ -1,6 +1,6 @@
 # **Facebook-Like Server**
 
-Welcome to the **Backend of the FacebookASP project**!🎉
+Welcome to the **Backend of the Facebook-like project**!🎉
 
 This backend powers the core functionalities of our Facebook-like platform, built using **Express** and **MongoDB**. Designed for **real-time interactions**, it provides a seamless experience for both web and Android users. The backend follows a **RESTful API architecture**, enabling flexibility and scalability to support a wide range of operations.
 
@@ -9,10 +9,9 @@ By leveraging **MongoDB**, we ensure a reliable and efficient solution for manag
 
 In addition to this server, there are separate repositories in this GitHub for:
 
-  * The Web Application: A React-based frontend that delivers an intuitive user interface and allows seamless interaction with the platform.
-  * The Android Application: A mobile app providing similar functionality for Android devices.
+  * [The Web Application](https://github.com/MayaRosen/facebook-like-web): A React-based frontend that delivers an intuitive user interface and allows seamless interaction with the platform.
+  * [The Android Application](https://github.com/MayaRosen/facebook-like-android): A mobile app providing similar functionality for Android devices.
 
----
 
 ## **API Endpoints**
 

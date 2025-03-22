@@ -11,6 +11,7 @@ In addition to this server, there are separate repositories in this GitHub for:
 
   * [The Web Application](https://github.com/MayaRosen/facebook-like-web): A React-based frontend that delivers an intuitive user interface and allows seamless interaction with the platform.
   * [The Android Application](https://github.com/MayaRosen/facebook-like-android): A mobile app providing similar functionality for Android devices.
+  * [The Bloom Filter Service](https://github.com/MayaRosen/facebook-like-bloomfilter): A C++-based server that uses a Bloom Filter to efficiently detect and filter potentially malicious or duplicate URLs before they are processed by the platform.
 
 
 ## **API Endpoints**
